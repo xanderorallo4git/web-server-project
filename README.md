@@ -34,7 +34,7 @@ Check the container:
 docker compose ps
 
 Access the website:
-http://localhost:8080
+http://172.28.0.149:8080
 
 ## Stop the Web Server
 
